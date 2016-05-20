@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>LBXAlertAction.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>ZXingObjC.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>ZYCornerRadius.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>25C6177D8FF91FFFC7FFF1E45E112A21</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>31CA343F181C8F2A7F73F3867FAB0CDE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7A412E0C8595E0637D4CBC624D0F04C1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FE83EF077736BF2D6CDEA8C14F09E6F4</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
